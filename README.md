@@ -17,6 +17,7 @@ pattern=["  *  ",
          "*   *",
          "*   *"]
 for line in pattern:
+    print(line)
 b) Print your name by using for loop
 Code:
 name = "Anugrah"
